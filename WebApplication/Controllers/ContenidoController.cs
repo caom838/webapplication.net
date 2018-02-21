@@ -6,8 +6,11 @@ using System.Web.Mvc;
 
 namespace WebApplication.Controllers
 {
-    public class ContenidoController : Controller
-    {
+	public class ContenidoController : Controller
+	{
+
+		public String propiedad1{get;set;}
+
         // GET: Contenido
         public ActionResult Index()
         {
