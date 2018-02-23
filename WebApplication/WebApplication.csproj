@@ -146,6 +146,7 @@
     <Compile Include="Controllers\ContratosController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LoginController.cs" />
+    <Compile Include="Controllers\ParametrosController.cs" />
     <Compile Include="Controllers\PersonController.cs" />
     <Compile Include="Controllers\PolizasController.cs" />
     <Compile Include="Controllers\ReglasController.cs" />
@@ -201,6 +202,7 @@
     <Folder Include="Views\Contenido\" />
     <Folder Include="Views\Contratos\" />
     <Folder Include="Views\Login\" />
+    <Folder Include="Views\Parametros\" />
     <Folder Include="Views\Person\" />
     <Folder Include="Views\Polizas\" />
     <Folder Include="Views\Reglas\" />
