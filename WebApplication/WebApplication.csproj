@@ -145,6 +145,7 @@
     <Compile Include="Controllers\ContenidoController.cs" />
     <Compile Include="Controllers\ContratosController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\ImpresionController.cs" />
     <Compile Include="Controllers\LoginController.cs" />
     <Compile Include="Controllers\ParametrosController.cs" />
     <Compile Include="Controllers\PersonController.cs" />
@@ -201,6 +202,7 @@
     <Folder Include="Models\" />
     <Folder Include="Views\Contenido\" />
     <Folder Include="Views\Contratos\" />
+    <Folder Include="Views\Impresion\" />
     <Folder Include="Views\Login\" />
     <Folder Include="Views\Parametros\" />
     <Folder Include="Views\Person\" />
