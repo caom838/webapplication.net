@@ -54,9 +54,8 @@ namespace WebApplication.Controllers
         {
             try
             {
-                // TODO: Add update logic here
-
-                return RedirectToAction("Index");
+               //metodo para redireccionar a la opcion edit
+               return RedirectToAction("Index");
             }
             catch
             {
