@@ -23,6 +23,7 @@ namespace WebApplication.Controllers
         // GET: Vehiculo/Create
         public ActionResult Create()
         {
+			int i = 0;
             return View();
         }
 
